@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Даня\\Desktop\\GITWORK\\С#\\Lesson3\\task2\\task2.csproj": {}
+    "C:\\Users\\Даня\\Desktop\\GITWORK\\С#\\Lesson3\\Task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Даня\\Desktop\\GITWORK\\С#\\Lesson3\\task2\\task2.csproj": {
+    "C:\\Users\\Даня\\Desktop\\GITWORK\\С#\\Lesson3\\Task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Даня\\Desktop\\GITWORK\\С#\\Lesson3\\task2\\task2.csproj",
+        "projectUniqueName": "C:\\Users\\Даня\\Desktop\\GITWORK\\С#\\Lesson3\\Task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "C:\\Users\\Даня\\Desktop\\GITWORK\\С#\\Lesson3\\task2\\task2.csproj",
+        "projectPath": "C:\\Users\\Даня\\Desktop\\GITWORK\\С#\\Lesson3\\Task2\\task2.csproj",
         "packagesPath": "C:\\Users\\Даня\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Даня\\Desktop\\GITWORK\\С#\\Lesson3\\task2\\obj\\",
+        "outputPath": "C:\\Users\\Даня\\Desktop\\GITWORK\\С#\\Lesson3\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Даня\\AppData\\Roaming\\NuGet\\NuGet.Config"
